@@ -1,0 +1,24 @@
+Name: Rohan Mehta
+Role: Junior Data Analyst
+
+Summary:
+Data Analyst with 2 years of experience in reporting and basic predictive
+modeling. Comfortable with Python and SQL, looking to grow into a data science role.
+
+Skills:
+- Python (pandas, basic scikit-learn)
+- SQL, Excel
+- Data Visualization: Matplotlib, Power BI
+- Basic machine learning: linear regression, decision trees
+- Statistics fundamentals
+
+Experience:
+Data Analyst, E-commerce Startup (2022 - Present)
+- Built weekly sales dashboards in Power BI for the leadership team.
+- Wrote SQL queries to extract and clean customer data.
+- Created a simple churn prediction model using logistic regression.
+
+Education:
+B.Tech in Information Technology, 2022
+
+Note: No deep learning, NLP, cloud, or MLOps experience yet.

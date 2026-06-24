@@ -1,0 +1,27 @@
+Job Title: Data Scientist
+Company: Innomatics Analytics
+Location: Hyderabad, India (Hybrid)
+
+About the Role:
+We are seeking a Data Scientist to build, deploy, and monitor machine learning
+models that drive business decisions. You will work end-to-end: from data
+collection and feature engineering to model deployment and stakeholder reporting.
+
+Required Skills:
+- Strong Python programming (pandas, NumPy, scikit-learn)
+- Solid foundation in statistics and machine learning algorithms
+- Experience building and evaluating ML models (classification, regression)
+- SQL and data wrangling on large datasets
+- Data visualization (Matplotlib, Seaborn, or Power BI / Tableau)
+
+Preferred / Nice to Have:
+- Deep learning frameworks (TensorFlow or PyTorch)
+- NLP or Generative AI / LLM experience (LangChain, transformers)
+- Cloud platforms (AWS, GCP, or Azure)
+- MLOps tools (Docker, MLflow, CI/CD)
+
+Experience:
+- 2+ years of hands-on data science or applied machine learning experience.
+
+Education:
+- Bachelor's or Master's in Computer Science, Statistics, Mathematics, or related field.

@@ -1,0 +1,30 @@
+Name: Aisha Rahman
+Role: Senior Data Scientist
+
+Summary:
+Data Scientist with 5 years of experience building and deploying end-to-end
+machine learning systems in production. Strong background in statistics, NLP,
+and MLOps.
+
+Skills:
+- Python (pandas, NumPy, scikit-learn), R
+- Machine Learning: classification, regression, clustering, model evaluation
+- Deep Learning: TensorFlow, PyTorch
+- NLP & Generative AI: transformers, LangChain, LLM fine-tuning
+- SQL, Spark, large-scale data wrangling
+- Data Visualization: Matplotlib, Seaborn, Power BI, Tableau
+- Cloud & MLOps: AWS (SageMaker), Docker, MLflow, CI/CD
+
+Experience:
+Senior Data Scientist, FinTech Corp (2021 - Present)
+- Built a credit-risk classification model (AUC 0.91) deployed to 2M+ users.
+- Led an NLP pipeline using LangChain and transformers for document screening.
+- Implemented MLflow tracking and Dockerized model serving on AWS.
+
+Data Scientist, Retail Analytics Ltd (2019 - 2021)
+- Forecasting models for demand planning; reduced stockouts by 18%.
+- Built SQL ETL pipelines over 50M+ row datasets.
+
+Education:
+M.S. in Computer Science (Machine Learning), 2019
+B.S. in Statistics, 2017
