@@ -1,0 +1,18 @@
+# Core LangChain stack (tested on LangChain 1.x line)
+langchain>=1.0
+langchain-core>=1.0
+
+# --- Choose ONE LLM provider package ---
+# Free option (recommended): Google Gemini via Google AI Studio
+langchain-google-genai>=2.0
+# Paid option: OpenAI  (uncomment if you use an OpenAI key instead)
+# langchain-openai>=0.2
+
+# Document loaders for real resumes
+pypdf>=4.0          # read .pdf resumes
+python-docx>=1.1    # read .docx resumes
+
+# LangSmith client (tracing) — free tier, works with any provider
+langsmith>=0.1
+# Loads variables from .env
+python-dotenv>=1.0
