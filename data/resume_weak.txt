@@ -1,0 +1,24 @@
+Name: Sameer Khan
+Role: Frontend Web Developer
+
+Summary:
+Frontend developer with 3 years of experience building responsive web
+applications. Passionate about UI/UX and clean interfaces.
+
+Skills:
+- JavaScript, TypeScript, React, Next.js
+- HTML5, CSS3, Tailwind CSS
+- REST API integration
+- Git, Figma
+- Basic Node.js
+
+Experience:
+Frontend Developer, Web Studio (2021 - Present)
+- Built and maintained 10+ client websites using React and Next.js.
+- Improved page-load performance by 35% through code splitting.
+- Collaborated with designers to implement pixel-perfect UIs.
+
+Education:
+B.Sc. in Computer Applications, 2021
+
+Note: No Python, machine learning, statistics, or data science experience.

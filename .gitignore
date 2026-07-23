@@ -1,0 +1,14 @@
+# Secrets — never commit real keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outputs
+results.json
+
+# OS
+.DS_Store
